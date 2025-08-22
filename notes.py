@@ -15,3 +15,4 @@ whatType(3.0)
 whatType(True)
 whatType("Allison")
 whatType('p')
+#this is a test to see if this works, I have already commited this but I am trying to commit this to save it
